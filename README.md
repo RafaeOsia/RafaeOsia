@@ -20,7 +20,7 @@ Linguagens: PHP,Java,C#,PHP,CSS,Python e HTML
 Linguas: Inglês avançado e espanhou intermediário
 </p>
 <p>
-Outros conhecimentos: SQL,Edição de video,Canvas,Photoshop,Pacote Oficce
+Outros conhecimentos: SQL,Edição de video,Canvas,Photoshop,Pacote Oficce,Linux
 </p>
 
 # Estudos
@@ -32,11 +32,8 @@ Faculdade Dom Bosco tecnólogo Análise e Desenvolvimento de sistema (terceiro s
 Curso Excel Danki Code (6hrs) [terminado]
 </p>
 <p>
-Curso Excel Danki Code (6hrs) [terminado]
-</p>
-<p>
 Curso PHP do zero a maestria Udemy (34hrs) [terminado]
 </p>
 <p>
-Curso PHP do zero a maestria Udemy (34hrs) [terminado]
+Linux Unhatched Cisco Academy (7hrs) [terminado]
 </p>
