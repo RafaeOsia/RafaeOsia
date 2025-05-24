@@ -8,7 +8,7 @@
 
 # Sobre
 <p>
-Sou aluno da faculdade Dom Bosco, faço tecnólogo de Análise e desenvolvimento de sistemas, atualmente estou no 3 semestre. 
+Sou aluno da faculdade Dom Bosco, faço tecnólogo de Análise e desenvolvimento de sistemas, atualmente estou no 3º semestre. 
 Possuo experiência e fiz projetos em banco de dados HeideSQL,Java,C#,PHP,CSS e HTML
 </p>
 
