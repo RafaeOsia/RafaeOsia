@@ -1,6 +1,6 @@
 #README
 
-<p style="center">Eu sou alguém organizado e prezo por fazer o máximo de um trabalho com o tempo disponível na minha carga horária. </p>
+<p style=>Eu sou alguém organizado e prezo por fazer o máximo de um trabalho com o tempo disponível na minha carga horária, procuro sempre tirar dúvidas sobre o meu local de trabalho e conseguir mais experiência na parte de desenvolvimento de softwares</p>
 
 * [sobre](#sobre)
 
